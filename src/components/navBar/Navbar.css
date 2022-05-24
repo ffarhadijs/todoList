@@ -1,0 +1,19 @@
+.navbar{
+    width: 400px;
+    margin: 0 auto;
+}
+.navbar h1{
+    text-align: center;
+}
+.items span{
+    background-color: #f3f3f3dc;
+    border: 1px solid #2897e6;
+    border-radius: 5px;
+    width: auto;
+    padding: 3px 7px;
+    margin: 20px;
+}
+.items{
+    margin: 20px auto;
+    text-align: center;
+}

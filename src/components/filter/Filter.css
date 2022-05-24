@@ -1,0 +1,18 @@
+.filter{
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.selectBox {
+  outline: none;
+  border: 2px solid #c0c0c0;
+  border-radius: 5px;
+  width: 150px;
+  padding: 5px;
+}
+.selectBox:focus {
+  border: 2px solid #2897e6;
+}
